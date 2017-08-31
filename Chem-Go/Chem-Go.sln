@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{9A49C3B1-BC20-EAEC-F396-718604EDBFE4}") = "Chem-Go", "Assembly-CSharp.csproj", "{EB5FB0A3-4DAE-0C79-9CDA-F81B3C2950F8}"
+EndProject
+Project("{9A49C3B1-BC20-EAEC-F396-718604EDBFE4}") = "Chem-Go", "Assembly-CSharp-Editor.csproj", "{33A0CFA3-7F1D-C666-7332-B9A222759826}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB5FB0A3-4DAE-0C79-9CDA-F81B3C2950F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB5FB0A3-4DAE-0C79-9CDA-F81B3C2950F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB5FB0A3-4DAE-0C79-9CDA-F81B3C2950F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB5FB0A3-4DAE-0C79-9CDA-F81B3C2950F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33A0CFA3-7F1D-C666-7332-B9A222759826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33A0CFA3-7F1D-C666-7332-B9A222759826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33A0CFA3-7F1D-C666-7332-B9A222759826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33A0CFA3-7F1D-C666-7332-B9A222759826}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
